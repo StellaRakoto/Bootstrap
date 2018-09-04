@@ -1,0 +1,50 @@
+@font-face 
+{
+	font-family: "Courier_Prime";
+	src: url('Courier_Prime.ttf');
+}
+
+body{
+	font-family: "Courier_Prime";
+}
+
+#navbarLieux {
+	font-size: 25px; 
+}
+
+#photo {
+	padding-top: 40px;
+}
+
+.carousel {
+	width: 1210px;
+	height: 600px; 
+	margin: 0 auto;
+}
+
+#allCard {
+	padding-top: 50px;
+}
+
+.container {
+	max-width: 1240px;
+}
+
+.card-img-top {
+	max-width: 100%;
+	height: 214px;
+}
+
+#info_card {
+	width: 975px;
+}
+
+#v-pills-tab {
+	font-size: 23px;
+}
+
+footer {
+	font-size: 10px;
+}
+
+
